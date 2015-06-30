@@ -1,0 +1,50 @@
+﻿.blk_18 {
+ FONT-SIZE: 12px;
+ OVERFLOW: hidden;
+ width: 726px;
+} 
+.blk_18 .pcont {
+ OVERFLOW: hidden;
+ WIDTH: 675px;
+ float: left;
+ padding-left:3px;
+} 
+.blk_18 .ScrCont { 
+WIDTH: 67500px;
+} 
+.blk_18 #List1_1 { 
+FLOAT: left 
+} 
+#ISL_Cont_1 img {
+ margin-right: 8px;
+}
+.blk_18 #List2_1 { 
+FLOAT: left 
+} 
+.blk_18 .LeftBotton {
+ FLOAT: left;
+ WIDTH: 18px;
+ HEIGHT: 26px;
+ background-image: url(../Images/scroll_left.gif);
+ background-repeat: no-repeat;
+ padding: 0px;
+ margin-top: 50px;
+ margin-right:5px;
+} 
+.blk_18 .RightBotton {
+ FLOAT: left;
+ WIDTH: 18px;
+ HEIGHT: 26px;
+ background-image: url(../Images/scroll_right.gif);
+ background-repeat: no-repeat;
+ margin-top: 50px;
+ margin-left:5px;
+} 
+.blk_18 .LeftBotton {
+} 
+.blk_18 .RightBotton { 
+} 
+.blk_18 .LeftBotton:hover { 
+} 
+.blk_18 .RightBotton:hover { 
+}
