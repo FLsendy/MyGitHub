@@ -1,0 +1,103 @@
+﻿/* CSS Document */
+.legalBd {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	font-family: "微软雅黑";
+	font-size: 12px;
+	color: #5d5b5b;
+}
+.holdBg {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+}
+.legalWrap {
+	padding: 0 18%;
+}
+.legalWrap .tip {
+	color: #5d5b5b;
+	padding-top: 1.5%;
+}
+.legalWrap h2 {
+	padding-top: 2%;
+	text-align: center;
+	font-size: 35px;
+	color: #f05133;
+}
+.legalWrap .legalTop {
+	padding-top: 1%;
+}
+.legalWrap .legalTop p {
+	padding-bottom: 1.2%;
+}
+.legalWrap .legalTop p span {
+	color: #f05133;
+	font-weight: bold;
+}
+.legalUl {
+	padding: 2% 0 2% 0;
+	color: #fff;
+}
+.legalUl li {
+	margin-bottom: 1.5%;
+}
+.legalUl strong {
+	display: block;
+	background: url(../Images/white-dot.png) no-repeat 0 3px;
+	padding-left: 15px;
+	font-size: 16px;
+	margin-bottom: 0.5%;
+}
+.legalUl li p {
+}
+/*2015.2.11*/
+.legalWrap2 {
+	padding: 0;
+}
+.pd18 {
+	padding-left: 25%;
+	padding-right: 25%;
+}
+/*百度分享*/
+.text h3 {
+	border-bottom: 1px dotted #ccc;
+	border-top: 1px dotted #ccc;
+	font: bold 14px/40px Microsoft YaHei;
+	height: 40px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.text .share {
+	line-height: 1.2;
+	position: absolute;
+	right: 0;
+	top: 8px;
+}
+.share #bdshare {
+	float: none;
+}
+.text a {
+	color: #39f;
+}
+.tip a {
+	color: #f05133;
+}
+.ptime {
+	line-height: 1.8;
+	position: absolute;
+	right: 0;
+	top: 11px;
+	font: bold 14px Microsoft YaHei;
+}
+.ptitle h3 {
+	margin-top: 10px;
+	border-bottom: 1px dotted #ccc;
+	border-top: 1px dotted #ccc;
+	font: bold 18px/40px Microsoft YaHei;
+	height: 40px;
+	position: relative;
+	color: #f05133;
+}

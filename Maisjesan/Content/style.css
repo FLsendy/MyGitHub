@@ -1,0 +1,24 @@
+@import url("reset.css")/*tpa=http://www.15899.cn/templets/default/resouce/css/company/reset.css*//*tpa=http://www.15899.cn/templets/default/resouce/css/company/reset.css*/;
+/*news*/
+#news{height:670px;}
+#news .newsdata{width:830px;height:520px;margin:0 auto;position:relative;}
+#news .newsad{position:absolute;top:15px;left:15px;}
+#news ul{position:absolute;width:900px;top:15px;right:15px;}
+#news ul li{position:relative;border-bottom:1px dotted #ccc;padding:12px 0;}
+#news ul li .newslist{position:absolute;width:650px;right:0;top:10px;}
+#news ul li .newslist a{font:bold 16px/30px Microsoft YaHei;color:#444;}
+#news ul li .newslist span{display:block;line-height:20px;color:#999;}
+
+.page_info{text-align:center;margin-top:10px;color:#333;}
+.page_info span{padding:0 2px;font-weight:bold;}
+.page_list{height:24px;line-height:24px;text-align:center;letter-spacing:0;font-family:"Arial Black";font-size:12px;margin-bottom:20px;}
+.page_list a{display:inline-block;color:#898989;border:1px solid #e8e8e8;background:#f8f8f8;text-align:center;padding:0 8px;margin:0 1px;}
+.page_list a:hover{color:#fff;border:1px solid #898989;background:#898989;}
+.page_list a.on{color:#333;border:1px solid #ccc;background:#E5EDF2;}
+
+
+/*内容分页*/
+.contPage{height:20px;line-height:20px;text-align:center;letter-spacing:0;font-family:"Arial Black";font-size:10px;margin-top:20px;}
+.contPage a{display:inline-block;color:#898989;background:#fff;text-align:center;padding:0 7px;margin:0 1px;}
+.contPage a:hover{color:#fff;background:#898989;}
+.contPage a.on{color:#333;background:#E5EDF2;border:1px solid #C2D5E3;}
